@@ -1,11 +1,11 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Juan David Murillo Quinto
+Fecha:27 de abril del 2026
+Nombre de la rama:juandavid_murillo
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:si, porque esta legible y al comenzar se da cuenta de que se trata
 
 2. ¿El formulario explica para qué se usará la información?
 Respuesta:
@@ -14,10 +14,11 @@ Respuesta:
 Respuesta:
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: si, porque facilmente se puede enteder 
 
 5. ¿El formulario evita pedir datos innecesarios?
 Respuesta:
+ si evita pedir los datos innecesarios, porque solo se necesitan datos necesarios la cual sean utiles para la informacion  
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
 Respuesta:
@@ -29,7 +30,7 @@ Respuesta:
 Respuesta:
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: si se puede leer con facilidad porque todo esta claro y entendible 
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: mejoraria que fuera mas abierto y atravez de eso se diera a conocer en la comunidad 
